@@ -6,11 +6,10 @@ Preview Program**](https://developer.chrome.com/docs/ai/built-in) by Google Chro
 
 ## Acknowledgements
 
-This project is based on the proof of concept from [kseth's kharms project](https://github.com/kseth/kharms).
+This project is based on the proof of concept .
 
 The extension utilizes the Prompt API, which is part of the **Built-in AI Early Preview Program** by Google Chrome.
 
-The extension icon is based on the [UI Icon](https://www.flaticon.com/free-icon/ui_10988175) by Freepik from Flaticon.
 
 ## Features
 
@@ -21,7 +20,7 @@ The extension icon is based on the [UI Icon](https://www.flaticon.com/free-icon/
 - Chat History: View and interact with previous conversations or Delete them.
 - Open Source: Transparent codebase that welcomes community contributions and improvements.
 
-[![Watch the video](https://img.youtube.com/vi/XRJuGTeNVig/maxresdefault.jpg)](https://youtu.be/XRJuGTeNVig)
+[![Watch the video](sample)
 
 
 ## Setup Instructions
